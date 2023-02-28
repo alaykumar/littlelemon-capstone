@@ -1,1 +1,1 @@
-# littlelemon-capstone
+# LittleLemonCapstone
